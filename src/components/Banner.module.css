@@ -1,0 +1,22 @@
+.img{
+    height: 593px;
+    width: 1280px;
+    background-size: cover;
+}
+
+.btn {
+    position: absolute;
+    margin-top: 388px;
+    margin-left: 573px;
+    background-color: #000;
+    color: #f46f0e;
+    font-size: 18px;
+    width: 150px;
+    height: 55px;
+    border-radius: 10px;
+    align-items: center;
+    border:none;
+    font-weight: bold;
+    color: #f46f0e;
+    box-shadow: -6px -3px 6px 2px #f46f0e;
+}

@@ -1,0 +1,37 @@
+.pergunta{
+    gap: 10px;
+    text-align: center;
+    height: 593px;
+    width: 1280px;
+    background-size: cover;
+}
+
+.btn{
+    width: 270px;
+    height: 65px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.titulo{
+    font-size: 50px;
+    padding: 15px;
+    color: white;
+}
+
+.btns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 540px;
+    margin: 0 auto;
+    gap: 26px;
+}
+
+.pontuacao{
+    position: absolute;
+    margin-top: 360px;
+    margin-left: 775px;
+    color: #000;
+    text-shadow: -1px -3px 2px #f46f0e;
+}
